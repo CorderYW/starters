@@ -1,6 +1,6 @@
 package com.yewei.service;
 
-import com.yewei.utils.CommonHttpClientUtils;
+import com.yewei.common.utils.CommonHttpClientUtils;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.dom4j.Document;
