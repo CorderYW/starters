@@ -1,0 +1,8 @@
+com\yewei\cache\config\RedissonAutoConfiguration.class
+com\yewei\cache\lock\RedissonReadWriteDistLock.class
+com\yewei\cache\lock\IReadWriteDistLock.class
+com\yewei\cache\lock\IReadWriteLock.class
+com\yewei\cache\lock\IDistLock.class
+com\yewei\cache\lock\RedissonDistLock.class
+com\yewei\cache\lock\DistLockManager.class
+com\yewei\cache\config\RedissonProperties.class
